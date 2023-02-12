@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ashish Sai</title>
+    <link href="https://ashishrsai.github.io/feed.xml" rel="self" />
+    <link href="https://ashishrsai.github.io" />
+    <updated>2023-02-12T14:56:21+01:00</updated>
+    <author>
+        <name>Ashish Sai</name>
+    </author>
+    <id>https://ashishrsai.github.io</id>
+
+    <entry>
+        <title>Teaching</title>
+        <author>
+            <name>Ashish Sai</name>
+        </author>
+        <link href="https://ashishrsai.github.io/about-me.html"/>
+        <id>https://ashishrsai.github.io/about-me.html</id>
+
+        <updated>2023-02-12T14:56:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    WIP
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h5>WIP</h5>
+            ]]>
+        </content>
+    </entry>
+</feed>
